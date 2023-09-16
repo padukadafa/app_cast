@@ -3,10 +3,10 @@
     <channel>
         <title>Goncengan - Ojek Mahasiswa</title>
         <item>
-            <title>Version 1.0.1</title>
+            <title>Version 1.0.0</title>
             <description>Perbaikan bugs dan peningkatan performa. Silahkan Update lewat website https://goncengan.vercel.app/ jika tombol update tidak berfungsi</description>
             <pubDate>Sun, 16 Dec 2023 16:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/padukadafa/app/releases/download/release/goncengan.apk" sparkle:version="1.0.1" />
+            <enclosure url="https://github.com/padukadafa/app/releases/download/release/goncengan.apk" sparkle:version="1.0.0" />
         </item>
     </channel>
 </rss>
