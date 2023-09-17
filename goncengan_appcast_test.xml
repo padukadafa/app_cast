@@ -3,14 +3,14 @@
     <channel>
         <title>Goncengan - Ojek Mahasiswa</title>
         <item>
-            <title>Version 1.0.2</title>
+            <title>Version 1.0.3</title>
             <description>
               * bug 1
               * bug 2
               * bug 3 \n
             </description>
             <pubDate>Sun, 16 Dec 2023 18:00:00 +0000</pubDate>
-            <enclosure url="https://goncengan.vercel.app/" sparkle:version="1.0.2" />
+            <enclosure url="https://goncengan.vercel.app/" sparkle:version="1.0.3" />
         </item>
     </channel>
 </rss>
