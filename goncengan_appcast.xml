@@ -3,10 +3,10 @@
     <channel>
         <title>Goncengan - Ojek Mahasiswa</title>
         <item>
-            <title>Version 1.0.4</title>
+            <title>Version 1.0.5</title>
             <description>Perbaikan bugs dan peningkatan performa. Di beberapa perangkat notifikasi tidak muncul ketika aplikasi dikeluarkan. Silahkan Update lewat website https://goncengan.vercel.app/ jika tombol update tidak berfungsi.</description>
-            <pubDate>Sun, 27 Dec 2023 22:00:00 +0000</pubDate>
-            <enclosure url="https://goncengan.vercel.app/" sparkle:version="1.0.4/>
+            <pubDate>Sun, 24 Oct 2023 22:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.goncengan.goncengan" sparkle:version="1.0.5/>
         </item>
     </channel>
 </rss>
